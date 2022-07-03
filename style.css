@@ -1,0 +1,72 @@
+  ul.navigation {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+  }
+  
+  ul.navigation li {
+    float: left;
+  }
+  
+  ul.navigation li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  ul.navigation li a:hover {
+    background-color: #111;
+  }
+  
+  ul.navigation li a.active {
+    background-color: #53e25f;
+  }
+  
+  img.homepage {
+    max-width: 65%;
+    height: auto;
+  }
+  
+  div.garis_putih_homepage {
+      background-color: white;
+      text-align: center;
+      padding: 20px 250px 20px 250px;
+  }
+  
+  div.garis_putih_tengah {
+      background-color:transparent;
+      width: 80%;
+      margin: 0 auto;
+      padding: 50px;
+  }
+  
+  div.garis_putih_tengah table, div.garis_putih_tengah td {
+    border: 1px solid,white;
+  }
+  
+  div.garis_putih_tengah table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  div.garis_putih_tengah td {
+      padding: 10px;
+      font-size: 20px;
+  }
+  h6{
+    color: white;
+
+
+  }
+  div.garis_putih_tengahindex{
+    background-color: transparent;
+    width: 20%;
+    float: center;
+    margin: 25 auto;
+    padding: 50px;
+  }
+
